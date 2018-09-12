@@ -1,0 +1,1 @@
+Execute `make html` to build the project.
